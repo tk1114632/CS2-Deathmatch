@@ -1,0 +1,13 @@
+C:\CS2Dev\CS2-Deathmatch\source\bin\Release\net7.0\Deathmatch.deps.json
+C:\CS2Dev\CS2-Deathmatch\source\bin\Release\net7.0\Deathmatch.dll
+C:\CS2Dev\CS2-Deathmatch\source\bin\Release\net7.0\Deathmatch.pdb
+C:\CS2Dev\CS2-Deathmatch\source\obj\Release\net7.0\Deathmatch.csproj.AssemblyReference.cache
+C:\CS2Dev\CS2-Deathmatch\source\obj\Release\net7.0\Deathmatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS2Dev\CS2-Deathmatch\source\obj\Release\net7.0\Deathmatch.AssemblyInfoInputs.cache
+C:\CS2Dev\CS2-Deathmatch\source\obj\Release\net7.0\Deathmatch.AssemblyInfo.cs
+C:\CS2Dev\CS2-Deathmatch\source\obj\Release\net7.0\Deathmatch.csproj.CoreCompileInputs.cache
+C:\CS2Dev\CS2-Deathmatch\source\obj\Release\net7.0\Deathmatch.sourcelink.json
+C:\CS2Dev\CS2-Deathmatch\source\obj\Release\net7.0\Deathmatch.dll
+C:\CS2Dev\CS2-Deathmatch\source\obj\Release\net7.0\refint\Deathmatch.dll
+C:\CS2Dev\CS2-Deathmatch\source\obj\Release\net7.0\Deathmatch.pdb
+C:\CS2Dev\CS2-Deathmatch\source\obj\Release\net7.0\ref\Deathmatch.dll

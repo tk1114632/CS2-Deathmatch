@@ -1,0 +1,6 @@
+C:\CS2Dev\CS2-Deathmatch\source\obj\Debug\net7.0\Deathmatch.csproj.AssemblyReference.cache
+C:\CS2Dev\CS2-Deathmatch\source\obj\Debug\net7.0\Deathmatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS2Dev\CS2-Deathmatch\source\obj\Debug\net7.0\Deathmatch.AssemblyInfoInputs.cache
+C:\CS2Dev\CS2-Deathmatch\source\obj\Debug\net7.0\Deathmatch.AssemblyInfo.cs
+C:\CS2Dev\CS2-Deathmatch\source\obj\Debug\net7.0\Deathmatch.csproj.CoreCompileInputs.cache
+C:\CS2Dev\CS2-Deathmatch\source\obj\Debug\net7.0\Deathmatch.sourcelink.json

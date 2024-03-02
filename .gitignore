@@ -1,0 +1,5 @@
+
+*.vsidx
+.vs/CS2-Deathmatch/v17/.wsuo
+*.v2
+*.cache
